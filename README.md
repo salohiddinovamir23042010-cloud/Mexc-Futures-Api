@@ -15,8 +15,6 @@ High-performance Python & Node.js toolkit for professional cryptocurrency automa
 Crypto API Automation Toolkit is a professional solution for traders and developers who want full control over their automation workflow.  
 It handles authentication, request signing, rate-limit logic, proxy routing and CLI diagnostics out-of-the-box.
 
-Your GitHub repository is your product page — and this README is your sales pitch.
-
 ---
 
 🔥 Key Features
@@ -77,8 +75,7 @@ npm install
 ## ⚙ Configuration (.env)
 
 ```
-MEXC_API_KEY=your_key
-MEXC_API_SECRET=your_secret
+MEXC_WEB_KEY=your_key
 IS_TESTNET=false
 PROXY_URL=socks5://127.0.0.1:1080
 ```
@@ -155,7 +152,9 @@ Contact on Telegram:
 
 **[https://t.me/Goodbye_Chocolate](https://t.me/Goodbye_Chocolate)**
 
-Send your GitHub username — receive private repository invite after payment.
+After payment, you will receive all the information about the product and its launch.
+
+Fraud is punishable by criminal prosecution.
 
 ---
 
@@ -187,9 +186,4 @@ Private commercial software.
 
 **Telegram Support:** [https://t.me/Goodbye_Chocolate](https://t.me/Goodbye_Chocolate)
 
-```
-
----
-
-Your GitHub page is now a real commercial product landing.
 ```
