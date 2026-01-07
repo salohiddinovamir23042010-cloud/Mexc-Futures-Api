@@ -1,5 +1,5 @@
 <p align="center">
-  <img main="mexc-logo.png" alt="Crypto API Automation Toolkit — Banner" width="100%"/>
+  <img "mexc-logo.png" alt="Crypto API Automation Toolkit — Banner" width="100%"/>
 </p>
 
 # Crypto API Automation Toolkit — Professional SDK & CLI
