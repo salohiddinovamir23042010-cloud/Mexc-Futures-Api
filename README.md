@@ -1,8 +1,3 @@
-Below is the **complete README.md in pure code format**.
-Just copy everything from the block and paste into your `README.md` on GitHub.
-
----
-
 ````markdown
 <p align="center">
   <img src="mexc-logo.png" alt="Crypto API Automation Toolkit — MEXC" width="100%">
