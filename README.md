@@ -1,4 +1,3 @@
-````markdown
 <p align="center">
   <img src="mexc-logo.png" alt="Crypto API Automation Toolkit — MEXC" width="100%">
 </p>
@@ -11,7 +10,7 @@ High-performance Python & Node.js toolkit for professional cryptocurrency automa
 
 ---
 
-## 🚀 Introduction
+🚀 Introduction
 
 Crypto API Automation Toolkit is a professional solution for traders and developers who want full control over their automation workflow.  
 It handles authentication, request signing, rate-limit logic, proxy routing and CLI diagnostics out-of-the-box.
@@ -20,7 +19,7 @@ Your GitHub repository is your product page — and this README is your sales pi
 
 ---
 
-## 🔥 Key Features
+🔥 Key Features
 
 - Automated Trading — place futures & spot orders programmatically  
 - Real-Time Market Data — tickers, klines, balances, order books  
@@ -32,7 +31,7 @@ Your GitHub repository is your product page — and this README is your sales pi
 
 ---
 
-## 💻 Supported Platforms
+💻 Supported Platforms
 
 | Environment | Support |
 |------------|---------|
@@ -43,9 +42,9 @@ Your GitHub repository is your product page — and this README is your sales pi
 
 ---
 
-## 📦 Installation
+📦 Installation
 
-### Python
+Python
 
 ```bash
 pip install crypto-api-automation-toolkit
